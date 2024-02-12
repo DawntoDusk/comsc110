@@ -1,0 +1,20 @@
+Amount borrowed = $270000
+Annual interest rate = 5.125%
+Payback period = 30 Years
+Monthly payment = $1470.11
+
+Amount borrowed = $27000
+Annual interest rate = 5.125%
+Payback period = 30 Years
+Monthly payment = $147.01
+
+Amount borrowed = $27000
+Annual interest rate = 5.125%
+Payback period = 30 Years
+Monthly payment = $147.01
+
+Amount borrowed = $27000
+Annual interest rate = 5.125%
+Payback period = 30 Years
+Monthly payment = $147.01
+
